@@ -1,0 +1,18 @@
+CS 3650 - Computer Architecture (FICTIONAL DEMO SYLLABUS)
+Instructor: Professor Alex Rivera. Office hours: Tuesdays 2:00-3:00 PM in Building 8, Room 214.
+
+Homework 1 is due October 20, 2026 at 11:59 PM. Submit it on Canvas as a PDF.
+
+Homework 2 is due October 27, 2026 at 11:59 PM. Submit it on Canvas as a PDF.
+
+Homework 3 covers MIPS assembly and is due November 5, 2026 at 11:59 PM. Submit your .asm file and a short explanation on Canvas.
+
+The midterm exam is scheduled for October 29, 2026 during class. It covers binary arithmetic, Boolean logic, and MIPS basics. One handwritten note sheet is allowed.
+
+The final exam is scheduled for December 10, 2026 from 1:00 PM to 3:00 PM in Building 8, Room 109. It is cumulative.
+
+Late homework receives a 10 percent deduction per day for up to two days. Work submitted more than two days late is not accepted.
+
+Students may work together to understand concepts, but each student must submit their own solutions. Posting complete solutions online is not allowed.
+
+The course grade is 40 percent homework, 25 percent midterm, 25 percent final exam, and 10 percent participation.
